@@ -1,0 +1,9 @@
+[package]
+name = "cargo-rumpbake"
+version = "0.5.0"
+authors = ["Sebastian Wicki <gandro@gmx.net>"]
+
+
+[dependencies]
+cargo = "0.5.0"
+rustc-serialize = "0.3"
